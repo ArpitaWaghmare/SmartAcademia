@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">SmartAcademia</string>
+    <string name="user_login">User Login</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="title_activity_userloginpage2">userloginpage2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="Branch">
+        <item>Electrical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>information technology</item>
+        <item>Computer engineering</item>
+    </string-array>
+
+    <string-array name="StartTime">
+        <item>Start Time</item>
+        <item>10:30</item>
+        <item>11:30</item>
+        <item>12:30</item>
+        <item>2:00</item>
+        <item>3:00</item>
+        <item>4:00</item>
+        <item>5:00</item>
+        <!--        <item>7:00</item>-->
+        <!--        <item>8:00</item>-->
+        <!--        <item>9:00</item>-->
+        <!--        <item>10:00</item>-->
+        <!--        <item>11:00</item>-->
+        <!--        <item>12:00</item>-->
+    </string-array>
+
+    <string-array name="EndTime">
+        <item>End Time</item>
+        <item>11:30</item>
+        <item>12:30</item>
+        <item>1:30</item>
+        <item>3:00</item>
+        <item>4:00</item>
+        <item>5:00</item>
+        <item>6:00</item>
+        <!--        <item>8:00</item>-->
+        <!--        <item>9:00</item>-->
+        <!--        <item>10:00</item>-->
+        <!--        <item>11:00</item>-->
+        <!--        <item>12:00</item>-->
+        <!--        <item>1:00</item>-->
+    </string-array>
+
+    <string-array name="Subject">
+        <item>Select Subject</item>
+        <item>AJP</item>
+        <item>ADBMS</item>
+        <item>BCS</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>CSCL</item>
+        <item>Chemistry</item>
+        <item>DBMS</item>
+        <item>DS</item>
+        <item>EDP</item>
+        <item>English</item>
+        <item>FCIT</item>
+        <item>Java</item>
+        <item>Math</item>
+        <item>MPP</item>
+        <item>Python</item>
+        <item>Physics</item>
+        <item>ST</item>
+        <item>SE</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="may_19_2020">May 19 2020</string>
+
+
+</resources>
